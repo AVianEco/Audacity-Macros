@@ -19,7 +19,7 @@ Here you will find .txt files you can import using Audacity's Macro Manager. You
 2. Open a new blank Audacity project (i.e. open audacity, you should see no tracks open).
 3. Select Edit>Preferences, go to Directories. 
 4. Beside "Macro output" select Browse and choose the output folder where you'd like to put the resulting audio files. Click Select folder, then OK.
-		*Note: If you select the same output folder as your input folder, you will over-write your original files.
+-*Note: If you select the same output folder as your input folder, you will over-write your original files.
 5. Select Tools>Macro Manager>import
 6. Use the file picker to select the macro text file in the location you downloaded it to.
 7. Use "Files" to select a series of files you wish to apply the macro to.
