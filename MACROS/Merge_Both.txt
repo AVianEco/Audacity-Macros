@@ -1,0 +1,4 @@
+SelectAll:
+StereoToMono:
+ExportWav:
+RemoveTracks:

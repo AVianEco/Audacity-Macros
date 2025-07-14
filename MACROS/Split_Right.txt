@@ -1,0 +1,5 @@
+SelectTracks:Mode="Set" Track="0" TrackCount="1"
+PanRight:
+MixAndRender:
+StereoToMono:Use_Preset="<Current Settings>"
+ExportWav:
