@@ -13,7 +13,7 @@ Here you will find .txt files you can import using Audacity's Macro Manager. You
 ## USAGE ##
 *Audacity makes frequent updates which can change the macro commands, see [CREATE_AND_TEST_MACROS](CREATE_AND_TEST_MACROS.md) to see if the script works properly for your purposes. 
 
-###To Use in Audacity V.3.7.4 ###
+### To Use in Audacity V.3.7.4 ###
 
 1. Download or copy the macro to a text file in a location on your computer where it will live.
 2. Open a new blank Audacity project (i.e. open audacity, you should see no tracks open).
